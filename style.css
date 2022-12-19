@@ -1,0 +1,19 @@
+.container{
+    width: 40rem;
+    margin-inline: auto;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+}
+
+.list a{
+    font-size: 3rem;
+}
+
+
+iframe{
+    width: 100%;
+}
